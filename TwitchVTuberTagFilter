@@ -1,4 +1,4 @@
-! Don't want to see FleshTubers when filtering with Vtuber? This removes listed FleshTubers that use the tag on twitch
+! Removes listed FleshTubers that use the VTuber tag on twitch, just the ones I have seen when browsing.
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/joeykaotyk/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/xqc/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/mizkif/i))
