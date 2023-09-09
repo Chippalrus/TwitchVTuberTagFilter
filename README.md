@@ -6,4 +6,4 @@ Filters FleshTubers that abuse the VTuber tag on Twitch for uBlockOrigin
 ```https://raw.githubusercontent.com/Chippalrus/TwitchVTuberTagFilter/main/TwitchVTuberTagFilter```
 3) Hit ```Apply Changes``` button
 ## 
-I don't use twitch that often, so filter isn't updated regularly.
+I don't use twitch that often, so filter isn't updated regularly. Just what I see when I browse sometimes.
