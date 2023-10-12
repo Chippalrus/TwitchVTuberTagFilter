@@ -78,3 +78,4 @@ www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-towe
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/AnnyWhiteW/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/stegi/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/ratirl/i))
+www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/tangent/i))
