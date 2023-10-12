@@ -7,3 +7,4 @@ Filters FleshTubers that use the VTuber tag on Twitch for uBlockOrigin
 3) Hit ```Apply Changes``` button
 ## 
 I don't use twitch that often, so filter isn't updated regularly. Just what I see when I browse sometimes.
+I use the tag as a filter and since Twitch tags don't mean anything for browsing experience, I made my own filter.
