@@ -89,3 +89,4 @@ www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-towe
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/will1us/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/vonza/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/ripoozi/i))
+www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/caedrel/i))
