@@ -97,3 +97,4 @@ www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-towe
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/mrpokke/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/amara/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/swebliss/i))
+www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/cirowhites/i))
