@@ -1,4 +1,4 @@
-# TwitchVTuberTagFilter
+# Twitch VTuber Tag Filter
 Filters FleshTubers that use the VTuber tag on Twitch for uBlockOrigin
 ## How to use
 1) From ```uBlockOrigin``` settings go to ```Filter lists```  
