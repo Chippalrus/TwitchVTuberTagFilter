@@ -11,8 +11,7 @@ Filters FleshTubers that use the VTuber tag on Twitch for uBlockOrigin
 
 ## 
 I don't use twitch that often, so filter isn't updated regularly. Just what I see when I browse.
-I use the VTuber tag as a filter, but since Twitch tags can be misused I made a filter list.  
-The other filter is for sorting by Highest->Lowest views and filtering view botters.
+I use the VTuber tag as a filter, but since Twitch tags can be misused I made a filter list. The other filter is for sorting by Highest->Lowest views and filtering view botters.
 
 ## More Info
 My definition of a VTuber is defined: ***Primarily*** or ***Signifigant portion*** of archives are using either using a PNG, live2D or 3D model of a character.
