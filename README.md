@@ -7,7 +7,7 @@ Filters FleshTubers that use the VTuber tag on Twitch for uBlockOrigin
 3) Hit ```Apply Changes``` button
 
 ## 
-My definition of a VTuber is defined:
+My definition of a VTuber is defined as:
 > ***Primarily*** or ***Signifigant portion*** of archives are using either using a PNG, live2D or 3D model of a character.
 
 ##
