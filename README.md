@@ -8,7 +8,7 @@ Filters FleshTubers that use the VTuber tag on Twitch for uBlockOrigin
 
 ## 
 My definition of a VTuber is defined as:
-> ***Primarily*** or ***Signifigant portion*** of archives are using either using a PNG, live2D or 3D model of a character.
+> ***Primarily*** or ***Signifigant portion*** of streams/vods are using either a PNG, live2D or 3D model of a character.
 
 ##
 I don't use twitch that often, so filter isn't updated regularly. Just what I see when I browse.
